@@ -1,5 +1,5 @@
 # ObjectDetection_RN
-object detection by smartphone (react native)
+object detection by smartphone (react native & google cloud vision api)
 
 ************************************
 to make it work
